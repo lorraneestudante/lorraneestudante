@@ -1,7 +1,8 @@
 ## Hi there 👋
-###Boas vindas ao meu perfil
-<!--
-**lorraneestudante/lorraneestudante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###Boas vindas ao meu perfil.
+Meu nome é Lorrane.                                                                                                                          Estou estudando Alura.                                                                                                                      
+Estou me desenvolvendo na linguagem JavaScript.                                                                                              Utilizo esse espaço para minha organizaçã e compatilhamento dos meu projetos desenvolvidos.                                              
+                                                                                                                        **lorraneestudante/lorraneestudante** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
